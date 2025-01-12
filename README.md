@@ -42,6 +42,4 @@ Este é um **sistema de cadastro** desenvolvido para uma loja de roupas, permiti
      - Visualizar, editar e excluir roupas já cadastradas.
      - Pesquisar rapidamente pelo nome da roupa.
 
-## Observações
 
-- **Preencher as informações de servidor, usuario, senha e nome do banco de dados no arquivo de conexão.
